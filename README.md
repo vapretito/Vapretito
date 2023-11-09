@@ -26,3 +26,8 @@ Puedes ponerte en contacto conmigo a través de mi correo electrónico: [titoman
 Lenguajes y herramientas:
 JavaScript  React HTML5  CSS3  Express Redux SQL Sequelize PostgreSQL  Git  GitHub  Visual Studio Code 
 
+
+![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/50px-LinkedIn_logo_initials.png)
+
+
+
