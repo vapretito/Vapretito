@@ -27,7 +27,7 @@ Lenguajes y herramientas:
 JavaScript  React HTML5  CSS3  Express Redux SQL Sequelize PostgreSQL  Git  GitHub  Visual Studio Code 
 
 
-![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/50px-LinkedIn_logo_initials.png)
+![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png){:width="200px"}
 
 
 
