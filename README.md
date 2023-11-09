@@ -14,6 +14,11 @@ Contacto:
 
 Puedes ponerte en contacto conmigo a través de mi correo electrónico: [titomanbarreto@gmail.com](mailto:titomanbarreto@gmail.com).
 
+![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/40px-LinkedIn_logo_initials.png)
+![correo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/40px-LinkedIn_logo_initials.png)
+
+
+
 ¡Gracias por visitar mi perfil en GitHub!
 
 🎮 He trabajado en un proyecto individual llamado [PIVideogames](https://github.com/vapretito/PI-Videogames-main)
@@ -27,7 +32,6 @@ Lenguajes y herramientas:
 JavaScript  React HTML5  CSS3  Express Redux SQL Sequelize PostgreSQL  Git  GitHub  Visual Studio Code 
 
 
-![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/40px-LinkedIn_logo_initials.png)
 
 
 
