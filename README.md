@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 mi nombre es Victor Barreto
 
-<!--
-**vapretito/Vapretito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Hi](https://i.gifer.com/origin/bd/bdb5f1d6e74ef29733053fd1ff52f2e2.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+Acerca de mi: 
+
+Soy una persona apasionada por el aprendizaje continuo y la resolución de problemas. Mi objetivo es combinar mi experiencia en servicio al cliente y ventas con mis nuevas habilidades de programación para contribuir de manera significativa al éxito de una empresa en el campo de la tecnología. Estoy emocionado por la oportunidad de aprender y crecer en este nuevo camino y estoy comprometido a aprovechar al máximo esta transición.
+
+Contacto:
+
+Puedes ponerte en contacto conmigo a través de mi correo electrónico: [titomanbarreto@gmail.com](mailto:titomanbarreto@gmail.com).
+
+¡Gracias por visitar mi perfil en GitHub!
+
+🎮 He trabajado en un proyecto individual llamado [PIVideogames](https://github.com/vapretito/PI-Videogames-main)
+
+🚗 He trabajado en un proyecto individual llamado [PiDrivers](https://github.com/vapretito/cr-pi-drivers-main)
+
+⚽ He trabajado en un proyecto grupal llamado [CanchasYa](https://github.com/CanchaYAPF/CanchaYA)
+
+
+Lenguajes y herramientas:
+JavaScript  React HTML5  CSS3  Express Redux SQL Sequelize PostgreSQL  Git  GitHub  Visual Studio Code 
+
+
