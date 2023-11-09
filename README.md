@@ -15,7 +15,6 @@ Contacto:
 Puedes ponerte en contacto conmigo a través de mi correo electrónico: [titomanbarreto@gmail.com](mailto:titomanbarreto@gmail.com).
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/40px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/v%C3%ADctor-barreto-486487255/)
-![correo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/40px-LinkedIn_logo_initials.png)
 
 
 
